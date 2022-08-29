@@ -1,64 +1,58 @@
-{
-    "subscriptions_plan" : [
-    ],
-    "services" : [
-    ],
-    "ui" : [
-        {
-            "type": "settings",
-            "group" : "app",
-            "tags" : ["operateur", "changer", "go"],
-            "wording" : "Switch",
-            "paragraph" : "Passer de GoBoss à GoStar, de client à prestataire en un clic..."
-        },{
-            "type": "settings",
-            "group" : "user",
-            "tags" : ["profil", "user", "moi"],
-            "wording" : "Changer de mot de passe",
-            "last_update" : "Coming soon...",
-            "paragraph" : "Modifier le mot de passe de mon compte"
-        },{
-            "type": "settings",
-            "group" : "user",
-            "tags" : ["profil", "user", "moi"],
-            "wording" : "Mon profil",
-            "last_update" : "10-20-20",
-            "paragraph" : "Modification des informations personnelles"
-        },{
-            "type": "settings",
-            "group" : "user",
-            "tags" : ["entreprise", "go", "gotaff"],
-            "wording" : "Changer d'enterprise",
-            "nbrEnterprise" : "06",
-            "paragraph" : "Utiliser une autre entreprise, ou créer ou modifier une entreprise"
-        },{
-            "tags" : ["guide", "visite"],
-            "wording" : "Visite guidée",
-            "paragraph" : "Guide automatique pour comprendre l'utilisattion de l'application"
-        },{
-            "tags" : ["tableau", "bord"],
-            "wording" : "Tableau de bord",
-            "paragraph" : ""
-        },{
-            "tags" : ["map", "carte", "localisation"],
-            "wording" : "Maps",
-            "paragraph" : "Carte géographique sur lequel les prestataires / gostars sont affichés selon leur emplacements"
-        },{
-            "tags" : ["travail", "tâche", "go"],
-            "wording" : "Gotaf",
-            "paragraph" : "Liste des requêtes envoyés par le client"
-        },{
-            "type" : "docs",
-            "group" : "app",
-            "tags" : ["conditions", "utilisation"],
-            "wording" : "Conditions d'utilisation",
-            "paragraph" : "Contraintes & conditions régissant l'utilisation de gowork"
-        },{
-            "type" : "docs",
-            "group" : "app",
-            "tags" : ["politique", "confidentiel", "secret"],
-            "wording" : "Politique de confidentialité",
-            "paragraph" : "Règles de confidentialités établit par gowork"
-        }
-    ]
-}
+[
+    {
+        "type": "settings",
+        "group" : "app",
+        "tags" : ["operateur", "changer", "go"],
+        "wording" : "Switch",
+        "paragraph" : "Passer de GoBoss à GoStar, de client à prestataire en un clic..."
+    },{
+        "type": "settings",
+        "group" : "user",
+        "tags" : ["profil", "user", "moi"],
+        "wording" : "Changer de mot de passe",
+        "last_update" : "Coming soon...",
+        "paragraph" : "Modifier le mot de passe de mon compte"
+    },{
+        "type": "settings",
+        "group" : "user",
+        "tags" : ["profil", "user", "moi"],
+        "wording" : "Mon profil",
+        "last_update" : "10-20-20",
+        "paragraph" : "Modification des informations personnelles"
+    },{
+        "type": "settings",
+        "group" : "user",
+        "tags" : ["entreprise", "go", "gotaff"],
+        "wording" : "Changer d'enterprise",
+        "nbrEnterprise" : "06",
+        "paragraph" : "Utiliser une autre entreprise, ou créer ou modifier une entreprise"
+    },{
+        "tags" : ["guide", "visite"],
+        "wording" : "Visite guidée",
+        "paragraph" : "Guide automatique pour comprendre l'utilisattion de l'application"
+    },{
+        "tags" : ["tableau", "bord"],
+        "wording" : "Tableau de bord",
+        "paragraph" : ""
+    },{
+        "tags" : ["map", "carte", "localisation"],
+        "wording" : "Maps",
+        "paragraph" : "Carte géographique sur lequel les prestataires / gostars sont affichés selon leur emplacements"
+    },{
+        "tags" : ["travail", "tâche", "go"],
+        "wording" : "Gotaf",
+        "paragraph" : "Liste des requêtes envoyés par le client"
+    },{
+        "type" : "docs",
+        "group" : "app",
+        "tags" : ["conditions", "utilisation"],
+        "wording" : "Conditions d'utilisation",
+        "paragraph" : "Contraintes & conditions régissant l'utilisation de gowork"
+    },{
+        "type" : "docs",
+        "group" : "app",
+        "tags" : ["politique", "confidentiel", "secret"],
+        "wording" : "Politique de confidentialité",
+        "paragraph" : "Règles de confidentialités établit par gowork"
+    }
+]
